@@ -12,6 +12,8 @@
 >
 > 🎮 **Theme:** Inspired by the world of Rick and Morty, each level features custom sprites, sounds, and references from the show. Can you help Morty survive Rick's latest experiment?
 >
+> 👨‍💻 **Created by Ken Patrick Garcia as a project for our Game Development course.**
+>
 > ⚠️ **Note:** This repository contains the final build of the Ricochet game application. The full source code and Unity project setup are too large to upload to GitHub. This repo provides the final executable and essential assets for playing the game.
 
 Ricochet is a Unity-based 2D game where you control the paddle and ball to break through brick walls, with each level themed around Rick and Morty's universe. Enjoy custom sound effects, original sprites, and a variety of challenges as you progress through multiple levels inspired by the show's iconic moments.
