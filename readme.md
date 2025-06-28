@@ -107,7 +107,7 @@ Assets/
 - Audio clips in `morty sound` are from [jayuzumi.com](https://jayuzumi.com).
 - All other assets are either original or sourced for educational use.
 
-## Screnshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/f198a437-1030-4567-a4dc-ba848c8f5f2d)
 ![image](https://github.com/user-attachments/assets/3764b07e-f3f8-4c93-855e-1cc9a0a3721f)
